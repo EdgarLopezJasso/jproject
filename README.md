@@ -5,3 +5,4 @@ The configurations for this project will be:
 	* Spring configurations
     * Logging support
     * Deployment support
+    * README file configuration
